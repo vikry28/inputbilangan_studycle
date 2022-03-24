@@ -19,7 +19,6 @@ for i in range(0,n):
 BubbleSort(num) 
 print("\nUrutan bilangan (dari terkecil ke terbesar) =", num)
 for j in range(0,n): 
-    #looping untuk menambahkan semua nilai yang ada pada fungsi masukan bilangan
     sum = sum + num[j] 
 average = sum/len(num) 
 #nilai rata-rata/jumlah atau banyak data 
